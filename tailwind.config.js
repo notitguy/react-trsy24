@@ -4,10 +4,13 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        mono: ["Kode Mono", "monospace"],
+        mimono: ["Kode Mono", "monospace"],
       },
       gridTemplateColumns: {
         "70/30": "70% 28%",
+      },
+      animation: {
+        "spin-slow": "spin 7s linear infinite",
       },
     },
   },
