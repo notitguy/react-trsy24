@@ -83,6 +83,62 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "7b24",
+      "title": "Superb position for lazy devs",
+      "type": "Full-Time",
+      "location": "Heaven IT",
+      "description": "Don't do anything",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Scammer ltd.",
+        "description": "Everything",
+        "contactEmail": "email@email.com",
+        "contactPhone": "45569822"
+      }
+    },
+    {
+      "id": "8935",
+      "title": "Superb position for lazy devs",
+      "type": "Full-Time",
+      "location": "Heaven IT",
+      "description": "Don't do anything",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Scammer ltd.",
+        "description": "Everything",
+        "contactEmail": "email@email.com",
+        "contactPhone": "45569822"
+      }
+    },
+    {
+      "id": "0074",
+      "title": "Superb position for lazy devs",
+      "type": "Full-Time",
+      "location": "Heaven IT",
+      "description": "Don't do anything",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Scammer ltd.",
+        "description": "Everything",
+        "contactEmail": "email@email.com",
+        "contactPhone": "45569822"
+      }
+    },
+    {
+      "id": "95f3",
+      "title": "So Superb position for lazy devs",
+      "type": "Full-Time",
+      "location": "Heaven IT",
+      "description": "Don't do anything",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Scammer ltd.",
+        "description": "Everything",
+        "contactEmail": "email@email.com",
+        "contactPhone": "45569822"
+      }
     }
   ]
 }

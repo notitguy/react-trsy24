@@ -1,4 +1,19 @@
 # Quick course on React
 
-stopped here
-https://youtu.be/LDB4uaJ87e0?t=6789
+Estado: **Terminado ☑️**
+
+## Course link
+
+https://youtu.be/LDB4uaJ87e0
+
+To start Vite
+
+```javascript
+npm run dev
+```
+
+To run JSON server
+
+```javascript
+npm run server
+```
